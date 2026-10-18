@@ -3,7 +3,8 @@
 Static HTML/CSS rebuild of your Google Site, ready for GitHub Pages.
 
 ## What's inside
-- `index.html` (this is now the About me page — the standalone Home page was removed, so the site opens directly on About me), `research.html`, `resume.html`, `gallery.html`, `technical-hobbies.html`, `connect.html` — the main pages
+- `index.html`, `about.html`, `research.html`, `resume.html`, `gallery.html`,
+  `technical-hobbies.html`, `connect.html` — the main pages
 - `gallery/iit-kanpur-lab.html`, `gallery/iit-bombay-lab.html`, `gallery/sport-activities.html` — gallery sub-pages
 - `style.css` — shared stylesheet
 - `images/`, `images/gallery/`, `images/hobbies/`, `images/research/` — empty folders where your photos go
